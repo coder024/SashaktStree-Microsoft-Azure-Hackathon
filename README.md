@@ -1,6 +1,17 @@
 # hackathon-submission-template
 Please use this template for submitting solutions for the Microsoft Azure Women's Hackathon 2022
-<H1>IMPLEMENTATION</H1>
+
+# Introduction
+
+Sashakt Stree means <b>“Strong Woman”.</b> Our mission is <b>to educate, inspire, and empower</b> rural women. Our goal is to reach out to women in ever-more creative ways through technology and to make them “Sashakt” in their own ways! 
+
+Over the last several years, our India has experienced numerous horrifying incidents involving women of all ages, both on social media and in real life. Every week, a large number of complaints are made, with the majority of them remaining unaddressed. Furthermore, more than half of the women are afraid to speak up. Apart from all of this distress, women are afraid to discuss their own health. In most rural regions of India, discussing health concerns has always been and continues to be taboo. A substantial number of women are unaware of the resources available to them in areas of education and economic freedom.
+
+In light of this, we created <b>a website to address all of the challenges that women face</b> and to give a platform for all women to learn about their rights and opportunities available for them.
+
+We're also working on <b>an AI assistant bot using Microsoft Azure</b> that will be incorporated into our website and help women find information about helplines, health-related remedial treatments, and women's safety, education, economic freedom policies and protection rights all in one place.
+
+<H1>Implementation</H1>
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/172067489-665f44bf-0566-4429-948b-d79e2c2a39a6.png">
 
