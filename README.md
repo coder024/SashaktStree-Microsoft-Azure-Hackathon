@@ -45,16 +45,14 @@ We aim to reach each and every girl/woman of rural India to educate and empower 
 
 # Tools & Technologies
 For now, we have developed a static website using HTML, CSS, and Javascript. We will be working on the backend which will store the data of users navigating to the site by asking for registration through firebase.
-
-</br>We will make it a dynamic website. We will contact the users through email.
-
-</br>The Project is in the developing stage, we are working on more features like an AI-powered chat bot which will clear the initial doubts of the users. A translator will be intialized in local languages for the ease of users. 
+We will make it a dynamic website. We will contact the users through email.
+The Project is in the developing stage, we are working on more features like an AI-powered chat bot which will clear the initial doubts of the usinitializednslator will be intialized in local languages for the ease of users. 
 
 <H1>Implementation</H1>
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/172067489-665f44bf-0566-4429-948b-d79e2c2a39a6.png">
 
-This is the home page of the website. The home page consists of the navigation bar and the title of the project "SASHAKT STREE" which means STRONG WOMAN. It also contains a button for the AI powered chat bot which our team aims to implement in the near future. The site also has a user login and search feature. 
+This is the home page of the website. The home page consists of the navigation bar and the title of the project "SASHAKT STREE" which means STRONG WOMAN. It also contains a button for the AI-powered chat bot which our team aims to implement in the near future. The site also has a user login and search feature. 
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/172067633-16cf4084-648b-46f3-8ceb-f6173da7908b.png">
 
