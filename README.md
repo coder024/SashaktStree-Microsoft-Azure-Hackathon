@@ -1,9 +1,9 @@
 # hackathon-submission-template
 Please use this template for submitting solutions for the Microsoft Azure Women's Hackathon 2022
 
-# Site
+# WebSite
 
-Here is the link for our site- https://coder024.github.io/Sashakt-Stree/
+Here is the link for our website- https://coder024.github.io/Sashakt-Stree/
 
 # Introduction
 
