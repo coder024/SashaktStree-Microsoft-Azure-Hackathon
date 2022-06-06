@@ -39,6 +39,17 @@ There is something these inspirational women all share in common: they are all w
  
 Empowering women and girls and achieving gender equality are crucial to creating inclusive, open and prosperous societies. Sashakt Stree promotes access and opportunity for women and girls and builds the skills and confidence of women and girls to achieve their potential and have more influence over decisions that affect their lives.
 
+# Our Objectives
+
+We aim to reach each and every girl/woman of rural India to educate and empower them through emerging technologies. We have covered 6 major sectors for the overall development of women. These are Education, Health, Safety, Empowerment, Economic Freedom, and opportunities for Women in Tech. We have researched the various sectors and provided links to the external sites which look into this matter, and helpline numbers of Concerned authorities (NGOs, Crime cells, and Women's cells). Moreover, we will be working on individual web pages of this objective hyperlinked with the main site. 
+
+# Tools & Technologies
+For now, we have developed a static website using HTML, CSS, and Javascript. We will be working on the backend which will store the data of users navigating to the site by asking for registration through firebase.
+
+</br>We will make it a dynamic website. We will contact the users through email.
+
+</br>The Project is in the developing stage, we are working on more features like an AI-powered chat bot which will clear the initial doubts of the users. A translator will be intialized in local languages for the ease of users. 
+
 <H1>Implementation</H1>
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/172067489-665f44bf-0566-4429-948b-d79e2c2a39a6.png">
