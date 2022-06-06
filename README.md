@@ -11,6 +11,34 @@ In light of this, we created <b>a website to address all of the challenges that 
 
 We're also working on <b>an AI assistant bot using Microsoft Azure</b> that will be incorporated into our website and help women find information about helplines, health-related remedial treatments, and women's safety, education, economic freedom policies and protection rights all in one place.
 
+# Vision
+
+<h3>To Educate</h3>
+
+<h4>Our mission is to Educate, Inspire, and Empower rural women.</h4>
+ 
+Education allows a woman to acquire more control over her life and participate in decision-making processes, allowing her to contribute socially and economically to the well-being of her family and community.
+Our mission is to educate girls and women so that they may improve their own life prospects by gaining more knowledge, skills, self-confidence, and skills.
+ 
+ 
+<h3>To Inform</h3>
+
+<h4>Sashakt Stree means "Strong Woman”.</h4>
+ 
+Sashakt Stree promotes knowledge about development, care and protection of rural women and girls through cross-cutting policies and programmes, spreading awareness about their rights and facilitating access to learning, nutrition, institutional and legislative support for enabling them to grow and develop to their full potential.
+
+<h3>To Inspire</h3>
+
+<h4>Our goal is to reach out to women in ever-more creative ways through technology. </h4>
+ 
+There is something these inspirational women all share in common: they are all warriors and continue to inspire us in our own modern lives. Throughout history, women have fought courageously and tirelessly to assert themselves as individuals and experts in their field. It’s why the following women deserve celebrating and why they are as relevant now as they ever were in the past and Sashakt stree supports the same.
+
+<h3>To Empower</h3>
+
+<h4>To make them Sashakt in their own ways!</h4>
+ 
+Empowering women and girls and achieving gender equality are crucial to creating inclusive, open and prosperous societies. Sashakt Stree promotes access and opportunity for women and girls and builds the skills and confidence of women and girls to achieve their potential and have more influence over decisions that affect their lives.
+
 <H1>Implementation</H1>
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/172067489-665f44bf-0566-4429-948b-d79e2c2a39a6.png">
@@ -44,3 +72,26 @@ The "Contact Us" feature allows the user to get in touch with the team. You can 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/172068185-fa76151c-f68a-43a2-a38b-532ab381a344.png">
 
 This shows the footer of the website with all the quick links!
+
+
+# Developing Features:
+
+<h3>AI assistant bot using Microsoft Azure:</h3>
+
+A chatbot is a flexible and convenient approach to acquire information. They give end-users a fully individualized experience because most of them prefer texting to any other kind of communication. Natural language processing (NLP) is used by AI chatbots to assist consumers in interacting with web services or apps via text, visuals, or audio. Furthermore, AI chatbots employ predictive intelligence and analytics to learn a user's preferences and then utilize that information to make suggestions and anticipate requirements.
+
+We're working on an AI assistant bot using Microsoft Azure that will be incorporated into our website and help women find information about helplines, health-related remedial treatments, and women's safety, education, economic freedom policies and protection rights all in one place.
+
+
+<h3>Website translation into local languages</h3>
+
+According to a report in 2018, There are 121 languages which are spoken by 10,000 or more people in India, which has a population of 121 crore. We live in a multilingual world, so we will be offering our website in multiple languages so as to make it more user-friendly and connect with new audiences. It will help us expand our reach and provide access and information to those women who can read/write in their local language only.
+
+<h3>Login and signup features:</h3>
+
+Login and Signup features on Sashakt Stree website will be a security mechanism that will be used to restrict unauthorized access to member-only areas and tools on the site. We will be creating a simple registration and login system using PHP and MySQL and integrating it in the website.
+
+<h3>Contact Us:</h3>
+
+We have already created the frontend for the Contact Us form with fields like Name, Email, Number, Subject and Message. We will be working on the backend part of it so that all queries can be sent to us, the administrators and thus we can help the women facing any issues regarding the website.
+A server side script will be used to collect the form data and do the processing like send emails, save to the database etc. This form will come with a PHP script to handle the form submissions. PHP is a widely supported server side scripting platform. When the form is submitted, the javascript form submission event handler above collects the form data and sends it to the server side script.
