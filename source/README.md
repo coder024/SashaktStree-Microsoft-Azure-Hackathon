@@ -51,7 +51,7 @@ We aim to reach each and every girl/woman of rural India to educate and empower 
 # Tools & Technologies
 For now, we have developed a static website using HTML, CSS, and Javascript. We will be working on the backend which will store the data of users navigating to the site by asking for registration through firebase.
 We will make it a dynamic website. We will contact the users through email.
-The Project is in the developing stage, we are working on more features like an AI-powered chat bot which will clear the initial doubts of the usinitializednslator will be intialized in local languages for the ease of users. 
+The Project is in the developing stage, we are working on more features like an AI-powered chat bot which will clear the initial doubts of the users. A translator will be initialized in local languages for the ease of users. 
 
 <H1>Implementation</H1>
 
