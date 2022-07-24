@@ -93,7 +93,7 @@ This shows the footer of the website with all the quick links!
 
 A chatbot is a flexible and convenient approach to acquire information. They give end-users a fully individualized experience because most of them prefer texting to any other kind of communication. Natural language processing (NLP) is used by AI chatbots to assist consumers in interacting with web services or apps via text, visuals, or audio. Furthermore, AI chatbots employ predictive intelligence and analytics to learn a user's preferences and then utilize that information to make suggestions and anticipate requirements.
 
-We're worked on an AI assistant bot using Microsoft Azure that incorporats into our website and help women find information about helplines, health-related remedial treatments, and women's safety, education, economic freedom policies and protection rights all in one place.
+We have worked on an AI assistant bot using Microsoft Azure that incorporats into our website and help women find information about helplines, health-related remedial treatments, and women's safety, education, economic freedom policies and protection rights all in one place.
 
 
 <h3>Website translation into local languages</h3>
